@@ -23,7 +23,8 @@ A simple Java-based calculator project made for basic arithmetic operations like
 
 ```bash
 javac Main.java
-5. Run the program: java Main
+```
+5. Run the program: ```bash java Main ```
 
 💡 Future Plans
 Add support for advanced operations (modulus, power, etc.)
