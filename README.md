@@ -44,9 +44,4 @@ If you like it, consider dropping a ⭐ on the repo!
 
 ---
 
-You can save this as a file called `README.md` in the root of your project folder and then do:
 
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
