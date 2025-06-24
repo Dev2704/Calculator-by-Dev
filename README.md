@@ -8,7 +8,6 @@ A simple Java-based calculator project made for basic arithmetic operations like
 - Subtract one from another ➖  
 - Multiply two numbers ✖️  
 - Divide one number by another ➗  
-- Reuse the previous answer ♻️ *(if implemented)*  
 - CLI (Command Line Interface) based interaction
 
 ## 📁 Project Structure
